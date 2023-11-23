@@ -1,8 +1,13 @@
+import SalesItem from "./SalesItem";
+import ScoreList from "./ScoreList";
+import WebAnalytics from "./WebAnalytics";
 
-export default function LeftColumn() {
+export default function RigthColumn() {
     return (
-        <div>
-            RigthColumn
+        <div className="w-full p-2">
+            <SalesItem/>
+            <WebAnalytics />
+            <ScoreList />
         </div>
     )
 }
