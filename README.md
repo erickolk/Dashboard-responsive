@@ -1,5 +1,8 @@
 # Dashboard Financeiro em React.js
 
+![Dashboard financial](Dashboard.png)
+
+
 ## Descrição do Projeto
 
 Este projeto consiste em um Dashboard Financeiro desenvolvido em React.js, uma biblioteca JavaScript amplamente utilizada para a construção de interfaces de usuário. O objetivo principal do dashboard é fornecer uma visão clara e intuitiva das finanças, permitindo aos usuários acompanhar e analisar dados financeiros de maneira eficiente.
